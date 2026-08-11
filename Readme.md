@@ -18,21 +18,10 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const kaustubh = {
-    education: [
-        "MCA @ KJ Somaiya Institute of Management (2026 - 2028)",
-        "BSc IT @ Vidyalankar School of Information Technology (2023 - 2026)"
-    ],
-    experience: [
-        "Full-Stack Developer Intern @ Origin8tive",
-        "DevTech Intern @ quant Money Managers Limited",
-        "AI/ML Intern @ YBI Foundation"
-    ],
-    currentlyLearning: ["Advanced ASP.NET Core", "System Design", "Cloud & DevOps", "AI/ML"],
-    motto: "Build. Break. Learn. Improve. 🚀"
-};
-```
+- 🎓 **Education:** MCA @ KJ Somaiya Institute of Management (2026 - 2028) & BSc IT @ Vidyalankar School of Information Technology (2023 - 2026)
+- 💼 **Experience:** Internships at Origin8tive, quant Money Managers Limited, and YBI Foundation
+- 🌱 **Currently Learning:** Advanced ASP.NET Core, System Design, Cloud & DevOps, AI/ML
+- ⚡ **Motto:** Build. Break. Learn. Improve. 🚀
 
 ## 🛠️ Tech Stack
 
