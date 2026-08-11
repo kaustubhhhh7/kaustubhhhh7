@@ -1,0 +1,33 @@
+name: Daily Contribution Auto-Updater
+
+on:
+  schedule:
+    # Runs at 12:00 PM (Noon) UTC every day, which is 5:30 PM IST.
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allows you to run it manually from the Actions tab if needed
+
+permissions:
+  contents: write
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Make daily update
+        run: |
+          # Append the current date and time to a dummy file
+          echo "Automated contribution on $(date)" >> daily_update.txt
+          
+      - name: Commit and push changes
+        run: |
+          # Set up Git with your profile credentials
+          git config --local user.email "kaustubh7205@gmail.com"
+          git config --local user.name "Kaustubh Ghadshi"
+          
+          # Stage, commit, and push
+          git add daily_update.txt
+          git commit -m "Automated daily contribution"
+          git push
