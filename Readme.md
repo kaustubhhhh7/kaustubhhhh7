@@ -42,33 +42,33 @@ Hi! I'm a passionate <b>Full-Stack Developer</b> currently pursuing my MCA at KJ
   </a>
 </p>
 
-## 🌌 Featured Projects & Experience
+## 💼 Professional Experience
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>💼 Professional Experience</h3>
 <ul>
 <li><b>Origin8tive</b> — <i>Full-Stack Developer Intern</i></li>
 <li><b>quant Money Managers Ltd</b> — <i>DevTech Intern</i></li>
 <li><b>YBI Foundation</b> — <i>AI/ML Intern</i></li>
 </ul>
 
-</td>
-<td width="50%" valign="top">
+## 💻 Key Projects
 
-<h3>💻 Key Projects</h3>
-<ul>
-<li>🛡️ <b>Smart Attendance System</b> (ASP.NET Core, React)</li>
-<li>🏥 <b>AYUSH Registration Portal</b> (MERN Stack | SIH 2024)</li>
-<li>🎓 <b>Alumni Portal</b> (Core PHP, MySQL)</li>
-<li>🌳 <b>FRA Dashboard</b> (Ministry of Tribal Affairs)</li>
-</ul>
+- 🛡️ **Smart Attendance Management System | QR-Based Full Stack Web Application** <br/>
+  Built a QR-based attendance system with ASP.NET Core, React, TypeScript & SQL Server, featuring role-based access, time-limited QR codes, JWT authentication, dashboards, and defaulter tracking.
 
-</td>
-</tr>
-</table>
+- 🏥 **AYUSH Startup Registration Portal | Backend Developer | Smart India Hackathon 2024** <br/>
+  Built a streamlined AYUSH startup registration portal with robust backend logic, schema design, routing, and role-based access. Implemented Express-based APIs, MongoDB integration and secure environment configuration.
+
+- 🏢 **Core Agency – Full-Stack Agency Portfolio Website** <br/>
+  Built a full-stack agency portfolio website with animated UI, service listings, project showcases, testimonials, and contact management for a professional digital presence.
+
+- 🌳 **Forest Rights Administration (FRA) Dashboard – Ministry of Tribal Affairs** <br/>
+  Designed and built a digital dashboard for the Ministry of Tribal Affairs to streamline forest rights administration and monitoring. The platform improves rights management and strengthens oversight of tribal community resources.
+
+- 💻 **My Personal Interactive Developer Portfolio** <br/>
+  Created a modern interactive portfolio with sleek UI, smooth animations, skill highlights, and project showcases, delivering a polished and responsive personal brand experience.
+
+- 🚗 **Vehicle Mileage Prediction | YBI Foundation | Python, Machine Learning** <br/>
+  Developed a vehicle mileage prediction model during an AI/ML internship using Python, Scikit-Learn, and Pandas. Built the full ML pipeline—from preprocessing to model training and evaluation—and achieved high prediction accuracy.
 
 ## 🐍 Contribution Graph Snake
 
