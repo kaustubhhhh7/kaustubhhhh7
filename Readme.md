@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kaustubh%20Ghadshi&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=65&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&text=Kaustubh%20Ghadshi&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=65&descSize=20" width="100%"/>
 
 <br/>
 
@@ -27,7 +27,7 @@ Hi! I'm a passionate <b>Full-Stack Developer</b> currently pursuing my MCA at KJ
 <td width="45%" align="center" valign="middle">
 
 <a href="https://github.com/kaustubhhhh7">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhhhh7&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhhhh7&hide_border=true&background=0D1117&ring=38EF7D&fire=38EF7D&currStreakNum=38EF7D&currStreakLabel=11998E&sideNums=38EF7D&sideLabels=11998E&dates=11998E&border_radius=10" alt="GitHub Streak" />
 </a>
 
 </td>
@@ -83,5 +83,5 @@ Hi! I'm a passionate <b>Full-Stack Developer</b> currently pursuing my MCA at KJ
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaustubhhhh7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kaustubhhhh7&label=Profile%20Views&color=11998e&style=flat" alt="Profile Views" />
 </div>
