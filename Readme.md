@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kaustubh%20Ghadshi&fontSize=80&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=60&descAlign=50" width="100%"/>
-  <br/>
-  
-  <a href="https://kaustubhh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/kaustubh-g-3889212b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kaustubh7205@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kaustubh%20Ghadshi&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=65&descSize=20" width="100%"/>
+
+<br/>
+
+<a href="https://kaustubhh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/kaustubh-g-3889212b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kaustubh7205@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
 <br/>
@@ -14,15 +17,19 @@
 <table align="center" width="100%">
 <tr>
 <td width="55%" valign="top">
+
 Hi! I'm a passionate <b>Full-Stack Developer</b> currently pursuing my MCA at KJ Somaiya Institute of Management. I love solving real-world problems and building scalable applications from scratch. <br/><br/>
 🎓 <b>Education:</b> MCA @ KJ Somaiya (2026 - 2028) <br/>
 💼 <b>Experience:</b> Internships @ Origin8tive, quant Money Managers, YBI Foundation <br/>
 🌱 <b>Currently Learning:</b> Advanced ASP.NET Core, System Design, Cloud & DevOps
+
 </td>
 <td width="45%" align="center" valign="middle">
+
 <a href="https://github.com/kaustubhhhh7">
-<img src="https://streak-stats.demolab.com/?user=kaustubhhhh7&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhhhh7&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
 </a>
+
 </td>
 </tr>
 </table>
