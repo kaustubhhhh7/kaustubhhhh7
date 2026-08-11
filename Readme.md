@@ -82,13 +82,7 @@
         <li><b>DevTech Intern</b><br/><i>quant Money Managers Ltd (Apr 2025 – Jul 2025)</i></li>
         <li><b>AI/ML Intern</b><br/><i>YBI Foundation (Jun 2024 – Jul 2024)</i></li>
       </ul>
-      <br/>
-      <h3>🏆 Achievements</h3>
-      <ul>
-        <li>🥇 <b>1st Rank</b> – Internal SIH 2024</li>
-        <li>🎖️ <b>Finalist</b> – SIH 2024 (IIT Tirupati)</li>
-        <li>🥈 <b>2nd Rank</b> – Tantra Vihar 2026</li>
-      </ul>
+
     </td>
     <td width="50%" valign="top">
       <h3>💻 Key Projects</h3>
