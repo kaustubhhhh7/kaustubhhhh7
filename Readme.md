@@ -44,31 +44,36 @@ Hi! I'm a passionate <b>Full-Stack Developer</b> currently pursuing my MCA at KJ
 
 ## 💼 Professional Experience
 
-<ul>
-<li><b>Origin8tive</b> — <i>Full-Stack Developer Intern</i></li>
-<li><b>quant Money Managers Ltd</b> — <i>DevTech Intern</i></li>
-<li><b>YBI Foundation</b> — <i>AI/ML Intern</i></li>
-</ul>
+| Role | Company |
+| :--- | :--- |
+| 👨‍💻 **Full-Stack Developer Intern** | Origin8tive |
+| ⚙️ **DevTech Intern** | quant Money Managers Ltd |
+| 🤖 **AI/ML Intern** | YBI Foundation |
 
 ## 💻 Key Projects
 
-- 🛡️ **Smart Attendance Management System | QR-Based Full Stack Web Application** <br/>
-  Built a QR-based attendance system with ASP.NET Core, React, TypeScript & SQL Server, featuring role-based access, time-limited QR codes, JWT authentication, dashboards, and defaulter tracking.
+### 🛡️ Smart Attendance Management System
+**QR-Based Full Stack Web Application**
+> Built a QR-based attendance system with ASP.NET Core, React, TypeScript & SQL Server, featuring role-based access, time-limited QR codes, JWT authentication, dashboards, and defaulter tracking.
 
-- 🏥 **AYUSH Startup Registration Portal | Backend Developer | Smart India Hackathon 2024** <br/>
-  Built a streamlined AYUSH startup registration portal with robust backend logic, schema design, routing, and role-based access. Implemented Express-based APIs, MongoDB integration and secure environment configuration.
+### 🏥 AYUSH Startup Registration Portal
+**Backend Developer | Smart India Hackathon 2024**
+> Built a streamlined AYUSH startup registration portal with robust backend logic, schema design, routing, and role-based access. Implemented Express-based APIs, MongoDB integration and secure environment configuration.
 
-- 🏢 **Core Agency – Full-Stack Agency Portfolio Website** <br/>
-  Built a full-stack agency portfolio website with animated UI, service listings, project showcases, testimonials, and contact management for a professional digital presence.
+### 🏢 Core Agency
+**Full-Stack Agency Portfolio Website**
+> Built a full-stack agency portfolio website with animated UI, service listings, project showcases, testimonials, and contact management for a professional digital presence.
 
-- 🌳 **Forest Rights Administration (FRA) Dashboard – Ministry of Tribal Affairs** <br/>
-  Designed and built a digital dashboard for the Ministry of Tribal Affairs to streamline forest rights administration and monitoring. The platform improves rights management and strengthens oversight of tribal community resources.
+### 🌳 Forest Rights Administration (FRA) Dashboard
+**Ministry of Tribal Affairs**
+> Designed and built a digital dashboard for the Ministry of Tribal Affairs to streamline forest rights administration and monitoring. The platform improves rights management and strengthens oversight of tribal community resources.
 
-- 💻 **My Personal Interactive Developer Portfolio** <br/>
-  Created a modern interactive portfolio with sleek UI, smooth animations, skill highlights, and project showcases, delivering a polished and responsive personal brand experience.
+### 💻 My Personal Interactive Developer Portfolio
+> Created a modern interactive portfolio with sleek UI, smooth animations, skill highlights, and project showcases, delivering a polished and responsive personal brand experience.
 
-- 🚗 **Vehicle Mileage Prediction | YBI Foundation | Python, Machine Learning** <br/>
-  Developed a vehicle mileage prediction model during an AI/ML internship using Python, Scikit-Learn, and Pandas. Built the full ML pipeline—from preprocessing to model training and evaluation—and achieved high prediction accuracy.
+### 🚗 Vehicle Mileage Prediction
+**YBI Foundation | Python, Machine Learning**
+> Developed a vehicle mileage prediction model during an AI/ML internship using Python, Scikit-Learn, and Pandas. Built the full ML pipeline—from preprocessing to model training and evaluation—and achieved high prediction accuracy.
 
 ## 🎮 Pac-Man Contribution Graph
 
